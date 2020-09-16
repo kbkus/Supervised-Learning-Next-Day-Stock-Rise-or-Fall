@@ -1,4 +1,4 @@
-# Supervized-Learning-Next-Day-Stock-Rise-or-Fall
+# Supervised-Learning-Next-Day-Stock-Rise-or-Fall
 The goal of this project was to create a classification model that will predict if the stock price the next day will rise or fall.
 
 API requests were made to finviz.com to pull the most recent 100 article headlines from S&P 500 companies.
